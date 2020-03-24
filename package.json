@@ -2,10 +2,17 @@
   "name": "lab1",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "engines": {
     "node": "12.16.1",
     "npm": "6.13.4"
   },
+=======
+    "engines":{
+    "node": "12.16.1",
+    "npm": "6.13.4"
+  } ,
+>>>>>>> 2eb45c9181268d1fcb19f306c80cc2ae3aa374e5
   "dependencies": {
     "@material-ui/core": "^4.9.7",
     "@material-ui/icons": "^4.9.1",
